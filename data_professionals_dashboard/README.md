@@ -5,6 +5,10 @@ This is my first Power BI project where I analyze and visualize a survey dataset
 ## Project Overview
 
 In this project, I used **Power BI** to create an interactive dashboard that displays key metrics and trends about data professionals. The data was analyzed to provide actionable insights that can help organizations make better decisions regarding recruitment, training, and talent management.
+## Dashboard Screenshot
+
+![Dashboard Screenshot](https://github.com/AbdalrahmanElshafei/powerbi_projects/raw/main/data_professionals_dashboard/Screenshot%202025-05-11%20044206.png)
+
 
 ### Key Features:
 - **Years of Experience**: Analyzed how experience influences job roles and salary expectations.
