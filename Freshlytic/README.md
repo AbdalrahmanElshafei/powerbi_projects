@@ -27,7 +27,7 @@ A custom welcome screen with brand identity, logo, and a navigation button to th
 
 An elegant and interactive layout with slicers, KPIs, and charts.
 
-> ![Dashboard Preview](Freshlytic/dashboard_preview.png)
+> ![Dashboard Preview](dashboard_preview.png)
 
 ---
 
