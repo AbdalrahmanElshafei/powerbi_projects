@@ -20,7 +20,7 @@ This Power BI project presents a **fictitious sales dataset** with insights abou
 
 A custom welcome screen with brand identity, logo, and a navigation button to the dashboard.
 
-> ![Welcome Page](Freshlytic/Freshlytic Sales Analytics Dashboard Visualizing Key Sales Metrics and Business Insights July 2025 By Salim Elshafei Data Analyst  Power BI Enthusiast.png)
+> ![Welcome Page](Freshlytic/welcome.png)
 ---
 
 ## 📊 Dashboard Preview
