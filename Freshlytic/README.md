@@ -20,7 +20,7 @@ This Power BI project presents a **fictitious sales dataset** with insights abou
 
 A custom welcome screen with brand identity, logo, and a navigation button to the dashboard.
 
-> ![Welcome Page](Freshlytic/welcome.png)
+> ![Welcome Page](welcome.png)
 ---
 
 ## 📊 Dashboard Preview
